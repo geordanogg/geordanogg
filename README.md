@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com Faturamento Hospitalar
 - 🌱 Estou estudando Ciência de Dados ()
 - 📫 Contate-me no email: geordanogg@gmail.com
-- Conheça meu portifolio de [Data Science](https://github.com/geordanogg/Geordano_DS_Porfolio)
+- Conheça meu portifolio de [Data Science](https://github.com/geordanogg/Geordano_DS_Portifolio)
 
 
 <div align="center">
