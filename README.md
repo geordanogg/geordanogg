@@ -6,12 +6,9 @@
 <div align="center">
   <a href="https://github.com/geordanogg">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geordanogg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/geordanogg">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geordanogg&layout=compact&langs_count=4&theme=dark"/>
 </div>
+
 
 
   
