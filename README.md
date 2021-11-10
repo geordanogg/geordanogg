@@ -3,14 +3,16 @@
 - Estou trabalhando com Faturamento Hospitalar
 - Estou estudando Ciência de Dados. Conheça meu portifolio de [Data Science](https://github.com/geordanogg/Geordano_DS_Portifolio)
 
-
-
-
 <div align="center">
   <a href="https://github.com/geordanogg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geordanogg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/geordanogg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geordanogg&layout=compact&langs_count=4&theme=dark"/>
 </div>
+
 
   
 <div style="display: inline_block"><br>  
