@@ -9,8 +9,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geordanogg&layout=compact&langs_count=4&theme=dark"/>
 </div>
 
-
-
   
 <div align="center" style="display: inline_block"><br>  
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,5 +27,4 @@
   <a href="https://www.linkedin.com/in/geordanogg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  
-  ![Snake animation](https://github.com/geordanogg/geordanogg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/geordanogg/geordanogg/blob/output/github-contribution-grid-snake.svg)
