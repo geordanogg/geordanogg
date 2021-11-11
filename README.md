@@ -1,7 +1,6 @@
 ### Olá! Eu sou Geordano Gadelha Guimarães 👋
 
-- Estou trabalhando com Faturamento Hospitalar
-- Estou estudando Ciência de Dados. Conheça meu [portifolio](https://github.com/geordanogg/Geordano_DS_Portifolio) de Data Science 
+- Trabalhando com Faturamento Hospitalar | Estudando Ciência de Dados. Conheça meu [portifolio](https://github.com/geordanogg/Geordano_DS_Portifolio) de Data Science 
 
 <div align="center">
   <a href="https://github.com/geordanogg">
