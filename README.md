@@ -23,9 +23,9 @@ class DataScientist( self, profile, education, interests):
     self.learning = True
     
     def Learn( self, affairs ):
-        self.learning = True while profile.age < 99
         for subject in affairs:
             self.interests.append( subject )
+        self.learning = True while profile.age < 99
         
         
 geordanogg = DataScientist()
