@@ -32,7 +32,7 @@ geordanogg = DataScientist()
 geordanogg.Learn(['Data Science', 'Business Intelligence', 'Python Development'])
 ```
 
-- Estudando Ciência de Dados na Comunidade_DS. Conheça meu [portifolio](https://github.com/geordanogg/Geordano_DS_Portifolio) de Data Science 
+- Estudando Ciência de Dados na Comunidade_DS. Conheça meu [portifolio](https://geordanogg.github.io/portfolio_ds/) de Data Science 
 
 
 <div align="center">
