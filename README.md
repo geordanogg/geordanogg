@@ -15,7 +15,7 @@ class DataScientist( self, profile, education, interests):
                     'occupation': 'Faturista Hospitalar'}
     
     self.education = {'college' : 'Universidade Federal do Ceará (UFC)', 
-                 'graduation': Bachelor's degree in Computer Science', 
+                 'graduation': 'Bachelors degree in Computer Science', 
                  'year_start': 2005, 'year_end': 2010}  
                  
     self.interests = ['Music','Finance','Chess','Martial Arts']
